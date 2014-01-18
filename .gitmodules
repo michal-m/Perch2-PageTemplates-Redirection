@@ -1,0 +1,3 @@
+[submodule "addons/fieldtypes/pageslist"]
+	path = addons/fieldtypes/pageslist
+	url = git@github.com:michal-m/Perch2-FieldTypes-PagesList.git
